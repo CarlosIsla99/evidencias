@@ -1,4 +1,5 @@
-#AWS SERVER DOCUMENTATION
+# AWS SERVER DOCUMENTATION
+
 * **Conexión al servidor**
 ![conection](img/conection-to-server.PNG)
 
@@ -19,3 +20,17 @@
 ![php installation](img/php-installation.PNG)
 ![php installation](img/mysql-restart-apache2.PNG)
 ![phpmyadmin installation](img/phpmyadmin-instalation.PNG)
+
+
+# AGREGAR IP ELÁSTICA
+
+* **Clickr en el menú "Elastic IPs"**
+![ip elastica](img/menu.PNG)
+
+* **Añadir direccion**
+![ip elastica](img/allocate-ip.PNG)
+![ip elastica](img/allocated-ip.PNG)
+
+* **Asociar IP elástica**
+![ip elastica](img/asociar-ip.PNG)
+![ip elastica](img/ip-asociada.PNG)
