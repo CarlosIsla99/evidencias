@@ -34,3 +34,18 @@
 * **Asociar IP elástica**
 ![ip elastica](img/asociar-ip.PNG)
 ![ip elastica](img/ip-asociada.PNG)
+
+# GESTIÓN DE DNS
+
+* **En la página de www.gestionservicios.online**
+![gestion DNS](img/regsitros.PNG)
+* **Rellenamos datos**
+    * Nombre de la página
+    * Tiempo de via
+    * Tipo de registro DNS
+    * Dirección IPv4.
+![gestion DNS](img/form-dns.PNG)
+
+* **Resultado**
+![gestion DNS](img/dns-funciona.PNG)
+
