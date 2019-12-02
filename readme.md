@@ -41,7 +41,7 @@
 ![gestion DNS](img/regsitros.PNG)
 * **Rellenamos datos**
     * Nombre de la página
-    * Tiempo de via
+    * Tiempo de vida
     * Tipo de registro DNS
     * Dirección IPv4.
 ![gestion DNS](img/form-dns.PNG)
