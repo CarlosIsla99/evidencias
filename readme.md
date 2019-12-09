@@ -1,4 +1,4 @@
-# AWS SERVER DOCUMENTATION
+# <u>AWS SERVER DOCUMENTATION</u>
 
 * **Conexión al servidor**
 ![conection](img/conection-to-server.PNG)
@@ -22,7 +22,7 @@
 ![phpmyadmin installation](img/phpmyadmin-instalation.PNG)
 
 
-# AGREGAR IP ELÁSTICA
+# <u>AGREGAR IP ELÁSTICA</u>
 
 * **Clickr en el menú "Elastic IPs"**
 ![ip elastica](img/menu.PNG)
@@ -35,7 +35,7 @@
 ![ip elastica](img/asociar-ip.PNG)
 ![ip elastica](img/ip-asociada.PNG)
 
-# GESTIÓN DE DNS
+# <u>GESTIÓN DE DNS</u>
 
 * **En la página de www.gestionservicios.online**
 ![gestion DNS](img/regsitros.PNG)
@@ -48,4 +48,34 @@
 
 * **Resultado**
 ![gestion DNS](img/dns-funciona.PNG)
+
+# <u>VIRTUAL HOSTS</u>
+
+* **Crea carpetas ('servidor' y 'cliente') en /var/www con index.html diferentes**
+![servidor-cliente](img/servidor-cliente.PNG)
+![servidor-cliente](img/servidor-cliente-servidorhtml.PNG)
+![servidor-cliente](img/servidor-cliente-clientehtml.PNG)
+
+* **Crae dos subdominios:**
+    * cliente-tunombre.dominios.fpz1920.<i></i>com
+    * servidor-tunombre.dominios.fpz1920.<i></i>com
+![servidor-cliente](img/servidor-cliente-dns.PNG)
+
+* **Dar permisos para su uso**
+![servidor-cliente](img/servidor-cliente-permisos.PNG)
+
+* **Añadir carpetas a sitesaviable**
+    * Añadir carpetas cliente y servidor
+![servidor-cliente](img/servidor-cliente-sites.PNG)
+    * Editar la dirección y el nombre
+![servidor-cliente](img/servidor-cliente-host.PNG)
+    * Aplicar a2ensite
+![servidor-cliente](img/servidor-cliente-a2ensite.PNG)
+
+* **Reinicar apache para comprobar los resultados**
+![servidor-ciente](img/servidor-cliente-restart.PNG)
+![servidor-ciente](img/servidor-cliente-resultado1.PNG)
+
+
+
 
