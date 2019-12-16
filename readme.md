@@ -93,7 +93,7 @@
 ![servidor-FTP](img/t5-nano.PNG)
 ![servidor-FTP](img/t5-restart.PNG)
 ![servidor-FTP](img/t5-users.PNG)
-
+![servidor-FTP](img/t5-end.PNG)
 
 
 
