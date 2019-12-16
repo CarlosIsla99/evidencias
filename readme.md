@@ -1,4 +1,10 @@
-# <u>AWS SERVER DOCUMENTATION</u>
+**Índice**   
+1. [AWS SERVER DOCUMENTATION](#id1)
+2. [AGREGAR IP ELÁSTICA](#id2)
+3. [GESTIÓN DE DNS](#id3)
+4. [VIRTUAL HOSTS](#id4)
+
+# <u>AWS SERVER DOCUMENTATION<a name="id1"></a></u>
 
 * **Conexión al servidor**
 ![conection](img/conection-to-server.PNG)
@@ -22,7 +28,7 @@
 ![phpmyadmin installation](img/phpmyadmin-instalation.PNG)
 
 
-# <u>AGREGAR IP ELÁSTICA</u>
+# <u>AGREGAR IP ELÁSTICA<a name="id2"></a></u>
 
 * **Clickr en el menú "Elastic IPs"**
 ![ip elastica](img/menu.PNG)
@@ -35,7 +41,7 @@
 ![ip elastica](img/asociar-ip.PNG)
 ![ip elastica](img/ip-asociada.PNG)
 
-# <u>GESTIÓN DE DNS</u>
+# <u>GESTIÓN DE DNS<a name="id3"></a></u>
 
 * **En la página de www.gestionservicios.online**
 ![gestion DNS](img/regsitros.PNG)
@@ -49,7 +55,7 @@
 * **Resultado**
 ![gestion DNS](img/dns-funciona.PNG)
 
-# <u>VIRTUAL HOSTS</u>
+# <u>VIRTUAL HOSTS<a name="id4"></a></u>
 
 * **Crea carpetas ('servidor' y 'cliente') en /var/www con index.html diferentes**
 ![servidor-cliente](img/servidor-cliente.PNG)
