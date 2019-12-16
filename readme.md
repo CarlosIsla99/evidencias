@@ -3,8 +3,9 @@
 2. [AGREGAR IP ELÁSTICA](#id2)
 3. [GESTIÓN DE DNS](#id3)
 4. [VIRTUAL HOSTS](#id4)
+5. [SERVIDOR FTP](#id5)
 
-# <u>AWS SERVER DOCUMENTATION<a name="id1"></a></u>
+# <u>AWS SERVER DOCUMENTATION</u><a name="id1"></a>
 
 * **Conexión al servidor**
 ![conection](img/conection-to-server.PNG)
@@ -28,7 +29,7 @@
 ![phpmyadmin installation](img/phpmyadmin-instalation.PNG)
 
 
-# <u>AGREGAR IP ELÁSTICA<a name="id2"></a></u>
+# <u>AGREGAR IP ELÁSTICA</u><a name="id2"></a>
 
 * **Clickr en el menú "Elastic IPs"**
 ![ip elastica](img/menu.PNG)
@@ -41,7 +42,7 @@
 ![ip elastica](img/asociar-ip.PNG)
 ![ip elastica](img/ip-asociada.PNG)
 
-# <u>GESTIÓN DE DNS<a name="id3"></a></u>
+# <u>GESTIÓN DE DNS</u><a name="id3"></a>
 
 * **En la página de www.gestionservicios.online**
 ![gestion DNS](img/regsitros.PNG)
@@ -55,7 +56,7 @@
 * **Resultado**
 ![gestion DNS](img/dns-funciona.PNG)
 
-# <u>VIRTUAL HOSTS<a name="id4"></a></u>
+# <u>VIRTUAL HOSTS</u><a name="id4"></a>
 
 * **Crea carpetas ('servidor' y 'cliente') en /var/www con index.html diferentes**
 ![servidor-cliente](img/servidor-cliente.PNG)
@@ -81,6 +82,17 @@
 * **Reinicar apache para comprobar los resultados**
 ![servidor-ciente](img/servidor-cliente-restart.PNG)
 ![servidor-ciente](img/servidor-cliente-resultado1.PNG)
+
+# <u>SERVIDOR FTP</u><a name="id5"></a>
+![servidor-FTP](img/t5.PNG)
+![servidor-FTP](img/t5-edit.PNG)
+![servidor-FTP](img/t5-añadir.PNG)
+![servidor-FTP](img/t5-add-users.PNG)
+![servidor-FTP](img/t5-vsftpd.PNG)
+![servidor-FTP](img/t5-vsftpd-edit.PNG)
+![servidor-FTP](img/t5-nano.PNG)
+![servidor-FTP](img/t5-restart.PNG)
+![servidor-FTP](img/t5-users.PNG)
 
 
 
