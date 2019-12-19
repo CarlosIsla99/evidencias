@@ -4,6 +4,7 @@
 3. [GESTIÓN DE DNS](#id3)
 4. [VIRTUAL HOSTS](#id4)
 5. [SERVIDOR FTP](#id5)
+6. [COPIAS DE SEGURIDAD](#id6)
 
 # <u>AWS SERVER DOCUMENTATION</u><a name="id1"></a>
 
@@ -95,5 +96,13 @@
 ![servidor-FTP](img/t5-users.PNG)
 ![servidor-FTP](img/t5-end.PNG)
 
-
-
+# <u>Copias de seguridad</u><a name="id6"></a>
+* **Crear copias tipo tar**
+![copia de seguridad](img/cs.PNG)
+![copia de seguridad](img/cs-1.PNG)
+![copia de seguridad](img/cs-tar-resul.PNG)
+* **Crear una BBDD y copia**
+![copia de seguridad](img/cs-bbdd.PNG)
+![copia de seguridad](img/cs-bbdd-copia.PNG)
+* **Comprobación**
+![copia de seguridad](img/cs-resul-final.PNG)
