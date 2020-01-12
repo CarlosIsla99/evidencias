@@ -5,6 +5,7 @@
 4. [VIRTUAL HOSTS](#id4)
 5. [SERVIDOR FTP](#id5)
 6. [COPIAS DE SEGURIDAD](#id6)
+7. [AUTOMATIZAR COPIAS DE SEGURIDAD](#id7)
 
 # <u>AWS SERVER DOCUMENTATION</u><a name="id1"></a>
 
@@ -96,7 +97,7 @@
 ![servidor-FTP](img/t5-users.PNG)
 ![servidor-FTP](img/t5-end.PNG)
 
-# <u>Copias de seguridad</u><a name="id6"></a>
+# <u>Copias de seguridad</u><a name="id7"></a>
 * **Crear copias tipo tar**
 ![copia de seguridad](img/cs.PNG)
 ![copia de seguridad](img/cs-1.PNG)
@@ -106,3 +107,21 @@
 ![copia de seguridad](img/cs-bbdd-copia.PNG)
 * **Comprobación**
 ![copia de seguridad](img/cs-resul-final.PNG)
+
+# <u>Automatización de copias de seguridad</u><a name="id6"></a>
+* **Creamos una carpeta 'backup'**
+![automatizacion](img/auto-carp.PNG)
+* **Creamos un PHP que ejecute el .sh**
+![automatizacion](img/auto-sh.PNG)
+![automatizacion](img/auto-php.PNG)
+* **Creamos el .sh**
+![automatizacion](img/auto-script.PNG)
+* **Dar permisos a la carpeta que contiene el .php**
+![automatizacion](img/auto-perm.PNG)
+* **Dar permisos a la carpeta de backups**
+![automatizacion](img/backup-perm.PNG)
+* **Cambiar usuarios**
+![automatizacion](img/camb-usu.PNG)
+* **Creamos con crontab para hacer el backup**
+![automatizacion](img/cron.PNG)
+
