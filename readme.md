@@ -95,5 +95,11 @@
 ![servidor-FTP](img/t5-users.PNG)
 ![servidor-FTP](img/t5-end.PNG)
 
+# <u>INSOMNIA</u><a name="id6"></a>
 
+* **configurar el .htcacces para recibir el path y redireccionar al .php**
+![insomnia](img/htcacces.PNG)
+
+* **configurar el .htcacces para recibir el path y redireccionar al .php**
+![insomnia](img/php.PNG)
 
