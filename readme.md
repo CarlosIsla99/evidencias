@@ -127,7 +127,20 @@
 ![automatizacion](img/cron.PNG)
 
 # <u>INSOMNIA</u><a name="id8"></a>
+## Tarea1
 * **configurar el .htcacces para recibir el path y redireccionar al .php**
 ![insomnia](img/htcacces.PNG)
 * **configurar el .htcacces para recibir el path y redireccionar al .php**
 ![insomnia](img/php.PNG)
+
+## Tarea2
+* **El php procesa los datos y recibe lo siguiente**
+![insomnia](img/php_file.PNG)
+* **GET**
+![insomnia](img/get.PNG)
+* **POST**
+![insomnia](img/post.PNG)
+* **DELETE**
+![insomnia](img/delete.PNG)
+* **PUT**
+![insomnia](img/put.PNG)
