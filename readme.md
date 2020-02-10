@@ -158,15 +158,25 @@
 ![insomnia](img/put_2.PNG)
 
 ## Tarea3
+
 * **Crear la conexión con la BBDD**
+
 ![insomnia](img/connect.PNG)
 
 * **Crear un CASE para abarcar todas las posibilidades**
+
     * **GET**
+
     ![insomnia](img/get.PNG)
+
     * **POST**
+
     ![insomnia](img/post.PNG)
+
     * **PUT**
+
     ![insomnia](img/put.PNG)
+
     * **DELETE**
+    
     ![insomnia](img/delete.PNG)
